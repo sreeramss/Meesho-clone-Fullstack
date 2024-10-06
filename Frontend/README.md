@@ -3,7 +3,7 @@
 ![Screenshot 2024-09-22 160634](https://github.com/user-attachments/assets/f2f84ff1-784b-4b2d-b57a-52bcd28c2eba)
 
 
-This project is a front-end clone of the popular e-commerce website **Meesho**. Built using **React.js**, **TailwindCSS**, and **Vite** as the build tool. The app fetches product details using the **FakeStoreAPI** and features functionalities like sorting by price and rating. State management is handled using **Redux Toolkit** for seamless user experience.
+This project is a front-end clone of the popular e-commerce website **Meesho**. Built using **React.js**, **TailwindCSS**, and **Vite** as the build tool. The app fetches product details using the Mongodb and features functionalities like sorting by price and rating.
 
 ## Features
 
@@ -21,7 +21,6 @@ This project is a front-end clone of the popular e-commerce website **Meesho**. 
 
 - **React.js** - Front-end JavaScript library for building user interfaces.
 - **TailwindCSS** - A utility-first CSS framework for styling.
-- **FakeStoreAPI** - To fetch product data for clothing products.
 - **Toast Notifications** - To notify users of cart actions.
 - **Vite** - Build tool for fast development and optimized builds.
 
@@ -32,19 +31,14 @@ This project is a front-end clone of the popular e-commerce website **Meesho**. 
    ```bash
    git clone https://github.com/sreeramss/meesho-clone-almabetter.git
 
-3. **Install dependencies:**
+2. **Install dependencies:**
    
    ```bash
    cd meesho-clone-almabetter
    npm install
-   
-4. **Configure Firebase:**
+  
 
-  - Create a Firebase project at Firebase Console.
-  - Enable Authentication and Firestore.
-  - Get the Firebase config and replace it in your project (usually in a firebase.js file).
-
-4. **Run the application using vite :**
+3. **Run the application using vite :**
    
    ```bash
    npm run dev
