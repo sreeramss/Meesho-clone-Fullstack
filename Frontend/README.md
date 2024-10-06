@@ -1,9 +1,11 @@
 # Meesho Clone
 
+This project is a front-end clone of the popular e-commerce website **Meesho**. Built using **React.js**, **TailwindCSS**, and **Vite** as the build tool. The app fetches product details using the Mongodb and features functionalities like sorting by price and rating.
+
 ![Screenshot 2024-09-22 160634](https://github.com/user-attachments/assets/f2f84ff1-784b-4b2d-b57a-52bcd28c2eba)
 
+DEPLOYMENT LINK : https://preeminent-cendol-2ba068.netlify.app/
 
-This project is a front-end clone of the popular e-commerce website **Meesho**. Built using **React.js**, **TailwindCSS**, and **Vite** as the build tool. The app fetches product details using the Mongodb and features functionalities like sorting by price and rating.
 
 ## Features
 
